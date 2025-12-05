@@ -1,4 +1,4 @@
-observation_date,% Change
+observation_date, Inflation rate Change
 1/1/1947,0.652%
 2/1/1947,1.758%
 3/1/1947,0.000%
@@ -944,3 +944,4 @@ observation_date,% Change
 7/1/2025,0.382%
 8/1/2025,0.310%
 9/1/2025,-100.000%
+
